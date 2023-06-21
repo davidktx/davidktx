@@ -1,4 +1,4 @@
-# David Kuykendall
+# David R. Kuykendall
 ### Hi there 👋 Just getting started with GitHub.
 
 <!--

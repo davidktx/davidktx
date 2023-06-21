@@ -1,4 +1,5 @@
-### Hi there 👋
+# David Kuykendall
+### Hi there 👋 Just getting started with GitHub.
 
 <!--
 **davidktx/davidktx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
